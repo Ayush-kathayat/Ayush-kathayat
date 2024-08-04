@@ -1,10 +1,10 @@
 <p align="center">
     <a href="https://github.com/Ayush-kathayat/Ayush-kathayat"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
-    <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
+    <a href="https://github.com/Ayush-kathayat/Ayush-kathayat/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ayush-kathayat/Ayush-kathayat?color=blue"></a>
+    <a href="https://github.com/Ayush-kathayat"><img src="https://img.shields.io/github/stars/Ayush-kathayat"></a>
+    <a href="https://github.com/Ayush-kathayat/Ayush-kathayat/network/members"><img src="https://img.shields.io/github/forks/Ayush-kathayat/Ayush-kathayat.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayush-kathayat.Ayush-kathayat" alt="visitors"/>
 </p>
 
 [![](./src/header_.png)](#)
@@ -37,13 +37,13 @@
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/Ayush-kathayat#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Ayush-kathayat&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Ayush-kathayat#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Ayush-kathayat&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/Ayush-kathayat#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-kathayat&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Ayush-kathayat#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-kathayat&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/Ayush-kathayat#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-kathayat&theme=default"/></a><a href="https://github.com/Ayush-kathayat#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-kathayat&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/Ayush-kathayat#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Ayush-kathayat/Ayush-kathayat/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Ayush-kathayat#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Ayush-kathayat/Ayush-kathayat/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
