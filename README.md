@@ -7,29 +7,29 @@
 
 [![](./src/header_.png)](#)
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
-> Want to discuss something? You can reach out to me on discord at <b>Dwanzil#8489</b>.
+>**I am a Frontend Developer Intern at [Goalteller](https://goalteller.com/), with a strong foundation in full stack development, including experience with Next.js and TypeScript. As a passionate blockchain enthusiast, I have worked on several blockchain projects and continually seek to expand my knowledge and skills. I am a highly motivated individual with strong technical and problem-solving abilities, excellent time management, leadership, and teamwork skills. I thrive in dynamic environments where I can make a meaningful impact and enjoy socializing and exploring new experiences in life.**
+
 
 ## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;\
-![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
-![Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)\
-![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-555?style=flat&logo=typescript)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-555?style=flat&logo=solidity&logoColor=fff)&nbsp;\
+![React](https://img.shields.io/badge/-React-555?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
-![Jekyll](https://img.shields.io/badge/-Jekyll-555?style=flat&logo=jekyll)&nbsp;\
+![Express](https://img.shields.io/badge/-Express-555?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql)&nbsp;\
+![Web3.js](https://img.shields.io/badge/-Web3.js-555?style=flat&logo=web3.js&logoColor=fff)&nbsp;
+![Hardhat](https://img.shields.io/badge/-Hardhat-555?style=flat&logo=hardhat&logoColor=fff)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
+![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)&nbsp;\
+![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=postman)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
+
 
 ## 📈 GitHub Activity Graph:
 
