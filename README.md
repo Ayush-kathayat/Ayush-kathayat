@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="https://github.com/Ayush-kathayat/Ayush-kathayat"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/Ayush-kathayat/Ayush-kathayat/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ayush-kathayat/Ayush-kathayat?color=blue"></a>
+    <a href="https://github.com/Ayush-kathayat/Ayush-kathayat"><img src="https://img.shields.io/badge/status-Breaking&Building-brightgreen.svg"></a>
     <a href="https://github.com/Ayush-kathayat"><img src="https://img.shields.io/github/stars/Ayush-kathayat"></a>
     <a href="https://github.com/Ayush-kathayat/Ayush-kathayat/network/members"><img src="https://img.shields.io/github/forks/Ayush-kathayat/Ayush-kathayat.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayush-kathayat.Ayush-kathayat" alt="visitors"/>
